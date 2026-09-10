@@ -2,3 +2,6 @@ Added SDK_by_MCU folder.
  Arduino UNO board SDK added and tested;
  ESP32 board SDk added and tested;
  Pico2w board added and tested;
+
+SDK Upgrade to v1.3
+ Add sensitivie control;
